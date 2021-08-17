@@ -1,0 +1,49 @@
+{
+  "data": {
+    "IncidentDetail": "Test Data 1",
+    "ContribuitingCause": [
+      {
+        "ContribuitingCause": "Contribute Cause 1"
+      },
+      {
+        "ContribuitingCause": "Contribute Cause 2"
+      },
+      {
+        "ContribuitingCause": "Contribute Cause 3"
+      }
+    ],
+    "ImmdiateCause": [
+      {
+        "ImmdiateCause": "immidiate cause 1"
+      },
+      {
+        "ImmdiateCause": "immidiate cause 2"
+      },
+      {
+        "ImmdiateCause": "immidiate cause 3"
+      }
+    ],
+    "PreventiveAction": [
+      {
+        "Category": "Elimination",
+        "Description": "Contributing and Preventive Action Taken 1"
+      },
+      {
+        "Category": "Substituition",
+        "Description": "Contributing and Preventive Action Taken 2"
+      },
+      {
+        "Category": "Engineering Control",
+        "Description": "Contributing and Preventive Action Taken 3"
+      },
+      {
+        "Category": "Procedure and Training",
+        "Description": "Contributing and Preventive Action Taken 4"
+      },
+      {
+        "Category": "PPT",
+        "Description": "Contributing and Preventive Action Taken 5"
+      }
+    ]
+  }
+}
